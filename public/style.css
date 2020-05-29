@@ -1,0 +1,40 @@
+body{
+    background-color: #5bd0f4;
+}
+#logoImage{
+    width: 250px;
+    height: 250px;
+}
+#logoContainer{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 5%;
+}
+#list{
+    text-align: center;
+}
+#list > h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 5px!important;
+    color: white;
+
+}
+#list > h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 5px!important;
+    color: rgb(122, 122, 122);
+    font-size: 16px;
+}
+#list > p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2d58a6!important;
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0px;
+}
+.title{
+    margin-bottom: 2px;
+    margin-top: 2px;
+    color: #2d58a6!important;
+    font-weight: bold!important;
+}
